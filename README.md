@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @sudoDub
+- 🌱 I’m currently learning Python and programming in general
